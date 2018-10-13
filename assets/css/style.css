@@ -1,5 +1,13 @@
-
-
+.desc {
+    position: relative;
+    left: 80px;
+}
+.gallery2 {
+    left: 250px;
+    position: absolute;
+    top: 20px;
+    
+}
 
 ul {
     list-style-type: none;
